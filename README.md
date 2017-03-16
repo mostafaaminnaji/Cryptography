@@ -5,6 +5,7 @@ Simulation of HW2, Cryptography Course , "Many-Time-Pad encryption"
 All of This Code was Written by Mostafa Amin-Naji
 Mostafa Amin-Naji
 For contact me: Mostafa.Amin.Naji@gmail.com
+
 My other Website:
 1) https://sites.google.com/site/mostafaaminnaji/
 2) https://scholar.google.com/citations?user=z1gxuKcAAAAJ&hl=en
